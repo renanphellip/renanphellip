@@ -3,7 +3,7 @@
 Soon I will post some personal projects...
 
 - 👨‍💻 I’m currently working on DXC Technology
-- ▶️ I’m currently learning NodeJS
-- 👯 I’m looking to collaborate with automation for applications
-- 💬 Ask me about Docker, Azure DevOps, SonarQube and Kubernetes
+- ▶️ I’m currently learning Python and Azure cloud
+- 👯 I’m looking to collaborate with automation for cloud and applications
+- 💬 Ask me about Azure DevOps and Python
 - 📫 How to reach me: renan.ps.morais@gmail.com
